@@ -1,0 +1,16 @@
+body {
+    background: orange;
+    font-family: Times New Roman, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    color: #3c2e98;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #7c9e23;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
